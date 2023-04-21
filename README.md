@@ -1,11 +1,6 @@
 # 32Health - ReactJS assignments
 
-Here we provide the instructions for developing two ReactJS applications, designed by the 32Health team, to test the proficiency of applicants for the ReactJS Frontend Developer position(s):
-
 * **Assignment 1 - Beginner**: For applicants who have just learned React and have minimal to no experience in developing application using React.
-* **Assignment 2 - Advanced**: For applicants who have a good working knowledge of React and have worked on / developed at least one React application
-
-All applicants are required to submit only one assignment based on their knowledge, experience and confidence in ReactJS. We advice applicants to see the demo and instructions for both the assignments before deciding which one to submit.
 
 ## Prerequisites
 * Knowledge of ReactJS (obviously), HTML, CSS, Bootstrap (optional, but will be really helpful for Assignment 1)
@@ -120,29 +115,6 @@ This app is only designed for desktop/laptop and will be tested on Chrome browse
 
 Bootstrap was used to create the UI design for the demo app. But, applicants are encouraged to use any other CSS library/framework that they are comfortable with.
 
-## Assignment 1 - Advanced
-
-**Deadline for submission:** 2 days
-
-DEMO - [https://react-advanced-assignment.psamd.now.sh/](https://react-advanced-assignment.psamd.now.sh/)
-
-This assignment is designed for applicants who have a good knowledge and understanding of React and have developed/worked on atleast one React application.
-
-### What are we looking for?
-
-Everything mentioned in the Assignment 1 and additionally:
-
- - Ability of the applicant to learn a new React UI library and use its components in their app
- - Handling events and working with forms
- - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
-
-### Instructions
-
-We want applicants to create the closest possible replica of the [assignment 2 demo app](https://react-advanced-assignment.psamd.now.sh/).
-
-This app should be a responsive (mobile, tablet and desktop) and will be tested on Chrome browser.
-
-The entire app was designed using the [Ant Design](https://ant.design/) library. It is mandatory for applicants to use the library to design the Icons, Buttons, Cards, Grid, Modal and Form in the demo app.
 
 ## General Tips
 
